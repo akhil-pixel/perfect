@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 trying to revert the commits i have made
+=======
+second branch
+>>>>>>> secbranch
